@@ -1,0 +1,8 @@
+Small program where you can enter an MAC address and send a wake on lan package to it.
+
+http://github.com/hnJaermuseet/Wake-on-lan-Tester
+
+License: GPL
+Author: Hallvard Nygard <hn@jaermuseet>, Vitenfabrikken (part of Jærmuseet)
+
+This program uses WakeUpUtil from Steffen Moldaner, http://www.moldaner.de/wakeonlan/
